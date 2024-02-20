@@ -3,11 +3,3 @@
 
 #DATA SCIENCE AND MACHINE LEARNING
 
-    👋 Hi, I’m Reena Naveen
-    👀 I’m interested in a fast-paced, challenging career centered on problem-solving and thinking outside of the box.
-    🌱 I’m currently learning Data Science and Machine learning
-    💞️ I’m looking to collaborate on buiding communities and research projects in ML
-    📫 How to reach me reenanv89@gmail.com
-    😄 Pronouns: She/her/hers
-    ⚡ Fun fact:... I love to do crafts and DIY products.
-
