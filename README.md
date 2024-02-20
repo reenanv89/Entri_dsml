@@ -8,6 +8,6 @@
     🌱 I’m currently learning Data Science and Machine learning
     💞️ I’m looking to collaborate on buiding communities and research projects in ML
     📫 How to reach me reenanv89@gmail.com
-    😄 Pronouns: ...
+    😄 Pronouns: She/her/hers
     ⚡ Fun fact:... I love to do crafts and DIY products.
 
